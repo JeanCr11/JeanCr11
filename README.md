@@ -15,6 +15,6 @@
   <a href = "mailto:jean_carloss11@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-carlos-73214422b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVaOVdq7aRWyPXfNZAPV%2B7g%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eujeancarloss/eujeancarloss/blob/output/github-contribution-grid-snake.svg)
  
 </div> 
